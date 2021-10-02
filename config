@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "springcloud-config"]
+	url = https://github.com/Zhang1996Bo96/springcloud-config.git
+	fetch = +refs/heads/*:refs/remotes/springcloud-config/*
+[gui]
+	wmstate = normal
+	geometry = 1119x595+62+283 189 218
